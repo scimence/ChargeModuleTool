@@ -11,9 +11,13 @@ README.md(de6040e364d69dc2ba3e921becaf5d82)
 计费聚合SDK接入.7z(3a48073fb50d46d4f3530ee522b92dbc)
 模版生成工具_2019/ChargeModule - 20190103.zip(05646e18a0dd140c207d779b2bc0d2c1)
 模版生成工具_2019/ChargeModule - 20190108（新增应用权限自动请求逻辑）.zip(93fd1dc781cffc079f7be2d4da9c7f21)
+模版生成工具_2019/ChargeModule - 20190117（屏蔽调试log输出信息）.zip(5a8b9fc3c0ca7dd047b30148300c7ffd)
 模版生成工具_2019/ChargeModule_AS - 20190103.zip(eec562e48ccd566ede7db6d49b12dbb5)
 模版生成工具_2019/ChargeModule_AS - 20190108（新增应用权限自动请求逻辑）.zip(29c4458b47d01cecbb1919c5b9ef94db)
+模版生成工具_2019/ChargeModule_AS - 20190117（屏蔽调试log输出信息）.zip(be26b829ecd3f30529a63dddb63ef096)
 模版生成工具_2019/ChargeModule_V4.exe(22ea10758ebaf1b626a82c74a7d04cea)
 模版生成工具_2019/ChargeModule_V5.exe(51ddb0e58ae02e66ff6b8aed05e69d92)
+模版生成工具_2019/ltsdk_lib_core_20190117.zip(5dbfe0c28d1339f11a178b14b0b26fdf)
+模版生成工具_2019/ShowLogCat_20180116.7z(b87fac61b0535c239c6457fd644d1113)
 
 )待更新文件
